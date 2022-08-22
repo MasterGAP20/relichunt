@@ -1,0 +1,6 @@
+name: Relichunt
+version: '${project.version}'
+main: team.b1n4ry.relichunt.Relichunt
+api-version: 1.19
+authors: [ b1n4ry, MasterGAP, Foraged ]
+description: Plugin for a minigame called Relic Hunt
